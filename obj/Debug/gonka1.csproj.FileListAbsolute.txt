@@ -1,0 +1,10 @@
+C:\Users\mtiak\Desktop\VS projects\gonka1\gonka1\bin\Debug\gonka1.exe.config
+C:\Users\mtiak\Desktop\VS projects\gonka1\gonka1\bin\Debug\gonka1.exe
+C:\Users\mtiak\Desktop\VS projects\gonka1\gonka1\bin\Debug\gonka1.pdb
+C:\Users\mtiak\Desktop\VS projects\gonka1\gonka1\obj\Debug\gonka1.csproj.AssemblyReference.cache
+C:\Users\mtiak\Desktop\VS projects\gonka1\gonka1\obj\Debug\gonka1.Form1.resources
+C:\Users\mtiak\Desktop\VS projects\gonka1\gonka1\obj\Debug\gonka1.Properties.Resources.resources
+C:\Users\mtiak\Desktop\VS projects\gonka1\gonka1\obj\Debug\gonka1.csproj.GenerateResource.cache
+C:\Users\mtiak\Desktop\VS projects\gonka1\gonka1\obj\Debug\gonka1.csproj.CoreCompileInputs.cache
+C:\Users\mtiak\Desktop\VS projects\gonka1\gonka1\obj\Debug\gonka1.exe
+C:\Users\mtiak\Desktop\VS projects\gonka1\gonka1\obj\Debug\gonka1.pdb
